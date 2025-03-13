@@ -1,4 +1,5 @@
-"name": "adopt-a-paw-this",
+{
+  "name": "adopt-a-paw-this",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -70,4 +71,6 @@
     "extends": "next/core-web-vitals"
   }
 }
+
+
 
